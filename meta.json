@@ -2,15 +2,17 @@
   "name": "Rap Panda",
   "symbol": "RPND",
   "description": "The coolest panda on Solana.",
-  "image": "rap_panda.png",
+  "image": "https://raw.githubusercontent.com/smariantrans-png/rap-panda/main/rap_panda.png",
+  "external_url": "",
+  "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
+    "category": "image",
     "files": [
       {
-        "uri": "rap_panda.png",
+        "uri": "https://raw.githubusercontent.com/smariantrans-png/rap-panda/main/rap_panda.png",
         "type": "image/png"
       }
     ]
   }
 }
-
